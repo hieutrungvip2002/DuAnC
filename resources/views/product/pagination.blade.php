@@ -1,0 +1,1 @@
+@if($paginator->hasPages())
